@@ -94,8 +94,9 @@ By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)
   <dd>Depuis quelques années déjà, beaucoup d'entre nous avons vu passer ou utiliser des jetons un peu spéciaux : les JSON Web Tokens ou JWT. Ce standard de jeton est très pratique pour faire transiter de l'information de manière fiable. Ces jetons sont souvent utilisés pour assurer l'authentication auprès de web services, de micro-services ou de SSO dans le cadre d'OpenID Connect. De plus, on voit beaucoup de JWS (des jetons signés), mais ce n'est pas la seule implémentation qui existe. En réalité, la spécification JWT est nettement plus vaste que ce que l'on peut penser. Je vous propose de découvrir des aspects de JWT moins connus que l'utilisation classique.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://slides.com/kpn13/connaissez-vous-vraiment-jwt-sf-live-2022)  
+~~Video~~  
+[Examples](https://github.com/kpn13/jwt-attack-examples)
 
 By [Karim Pinchon](https://connect.symfony.com/profile/kpinchon)  
 ![github](icon/github.png) [@kpn13](https://github.com/kpn13)  
