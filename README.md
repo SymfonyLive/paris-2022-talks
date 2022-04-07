@@ -22,8 +22,9 @@ By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)
 Comment peut-on valider XXX ? À travers cette présentation, nous allons voir comment valider dynamiquement des données, en ré-utilisant au maximum les fonctionnalités disponibles dans Symfony.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://speakerdeck.com/marionleherisson/valider-dynamiquement-de-la-donnee-avec-symfony)  
+~~Video~~  
+[Example](https://github.com/MarionLeHerisson/validation)
 
 By [Marion Hurteau](https://connect.symfony.com/profile/marionleherisson)  
 ![github](icon/github.png) [@MarionLeHerisson](https://github.com/MarionLeHerisson)  
