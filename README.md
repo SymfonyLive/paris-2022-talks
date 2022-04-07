@@ -76,7 +76,7 @@ Cependant, manipuler un array PHP n'est pas pratique : les analyseurs statiques 
 À travers cette présentation, nous allons voir comment étendre Doctrine pour avoir le meilleur des deux mondes : des colonnes en JSON, et des objets PHP fortement typés.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/lyrixx/doctrine-objet-type-et-colonne-json)  
 ~~Video~~
 
 By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)  
