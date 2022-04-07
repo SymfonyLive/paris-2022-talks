@@ -53,7 +53,8 @@ La réponse est oui, et durant ce talk nous allons vous montrer comment.</dd>
 </dl>
 
 [Slides](http://slides.com/mathiasarlaud/sflive-apip-ddd)  
-~~Video~~
+~~Video~~  
+[Example](https://github.com/mtarld/apip-ddd)
 
 By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)  
 ![github](icon/github.png) [@chalasr](https://github.com/chalasr)  
