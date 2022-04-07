@@ -52,7 +52,7 @@ Peut-on réellement découpler notre logique métier de ce framework via les tec
 La réponse est oui, et durant ce talk nous allons vous montrer comment.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slides.com/mathiasarlaud/sflive-apip-ddd)  
 ~~Video~~
 
 By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)  
