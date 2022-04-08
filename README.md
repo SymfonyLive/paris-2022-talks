@@ -191,7 +191,8 @@ By [Etienne Lebarillier](https://connect.symfony.com/profile/etienneleba)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+~~Video~~  
+[Examples](https://github.com/GromNaN/async-page-builder-demo)
 
 By [Jérôme Tamarelle](https://connect.symfony.com/profile/gromnan)  
 ![github](icon/github.png) [@GromNaN](https://github.com/GromNaN)  
