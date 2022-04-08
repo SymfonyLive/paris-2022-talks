@@ -243,7 +243,8 @@ Encore mieux, pas besoin de smart contracts ni même de blockchain pour créer d
 </dl>
 
 ~~Slides~~  
-~~Video~~
+~~Video~~  
+[Solid Client PHP](https://github.com/dunglas/solid-client-php)
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/)  
 ![github](icon/github.png) [@dunglas](https://github.com/dunglas)  
