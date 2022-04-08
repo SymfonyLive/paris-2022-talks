@@ -30,7 +30,6 @@ By [Marion Hurteau](https://connect.symfony.com/profile/marionleherisson)
 ![github](icon/github.png) [@MarionLeHerisson](https://github.com/MarionLeHerisson)  
 ![twitter](icon/twitter.png) [@MarionHerisson](https://twitter.com/MarionHerisson)
 
-
 ---
 
 ## Du DDD avec API Platform
@@ -64,7 +63,6 @@ And [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)
 ![github](icon/github.png) [@mtarld](https://github.com/mtarld)  
 ![twitter](icon/twitter.png) [@matarld](https://twitter.com/matarld)
 
-
 ---
 
 ## Doctrine, objet typé, et colonne JSON
@@ -85,7 +83,6 @@ By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)
 ![github](icon/github.png) [@lyrixx](https://github.com/lyrixx)  
 ![twitter](icon/twitter.png) [@lyrixx](https://twitter.com/lyrixx)
 
-
 ---
 
 ## Connaissez-vous vraiment JWT ?
@@ -102,7 +99,6 @@ By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)
 By [Karim Pinchon](https://connect.symfony.com/profile/kpinchon)  
 ![github](icon/github.png) [@kpn13](https://github.com/kpn13)  
 ![twitter](icon/twitter.png) [@kpn13](https://twitter.com/kpn13)
-
 
 ---
 
@@ -124,7 +120,6 @@ By [Alexandre Daubois](https://connect.symfony.com/profile/alexandre-daubois)
 ![github](icon/github.png) [@alexandre-daubois](https://github.com/alexandre-daubois)  
 ![twitter](icon/twitter.png) [@alexdaubois](https://twitter.com/alexdaubois)
 
-
 ---
 
 ## À la Recherche du Temps Perdu
@@ -145,7 +140,6 @@ By [Jérôme Vieilledent](https://connect.symfony.com/profile/lolautruche)
 ![github](icon/github.png) [@lolautruche](https://github.com/lolautruche)  
 ![twitter](icon/twitter.png) [@jvieilledent](https://twitter.com/jvieilledent)
 
-
 ---
 
 ## Vous avez dit Symfony 6.1?
@@ -165,7 +159,6 @@ Vous découvrirez, je l'espère des outils dont vous ignoriez l'existence et qui
 By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
 ![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
 ![twitter](icon/twitter.png) [@nicolasgrekas](https://twitter.com/nicolasgrekas)
-
 
 ---
 
@@ -188,7 +181,6 @@ By [Etienne Lebarillier](https://connect.symfony.com/profile/etienneleba)
 ![github](icon/github.png) [@etienneleba](https://github.com/etienneleba)  
 ![twitter](icon/twitter.png) [@EtienneLeba](https://twitter.com/EtienneLeba)
 
-
 ---
 
 ## Code asynchrone dans une application Symfony synchrone
@@ -204,7 +196,6 @@ By [Etienne Lebarillier](https://connect.symfony.com/profile/etienneleba)
 By [Jérôme Tamarelle](https://connect.symfony.com/profile/gromnan)  
 ![github](icon/github.png) [@GromNaN](https://github.com/GromNaN)  
 ![twitter](icon/twitter.png) [@GromNaN](https://twitter.com/GromNaN)
-
 
 ---
 
@@ -228,7 +219,6 @@ Enfin, nous verrons un cas d'usage qui dépasse le cadre que l'on donne habituel
 By [Marion Agé](https://connect.symfony.com/profile/marionage)  
 ![github](icon/github.png) [@K-mos](https://github.com/K-mos)  
 ![twitter](icon/twitter.png) [@marion_age](https://twitter.com/marion_age)
-
 
 ---
 
@@ -258,7 +248,6 @@ By [Kévin Dunglas](https://connect.symfony.com/profile/)
 ![github](icon/github.png) [@dunglas](https://github.com/dunglas)  
 ![twitter](icon/twitter.png) [@dunglas](https://twitter.com/dunglas)
 
-
 ---
 
 ## Un SSO avec Keycloak et Symfony
@@ -276,7 +265,6 @@ Keycloak est un IAM (Identity and Access Management) populaire qui offre de nomb
 By [Laurent Voullemier](https://connect.symfony.com/profile/lvo)  
 ![github](icon/github.png) [@l-vo](https://github.com/l-vo)  
 ![twitter](icon/twitter.png) [@lvodev](https://twitter.com/lvodev)
-
 
 ---
 
