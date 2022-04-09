@@ -190,7 +190,7 @@ By [Etienne Lebarillier](https://connect.symfony.com/profile/etienneleba)
   <dd>Le concept de Promise et les IO non-bloquants sont fondamentaux en Javascript, ils ont été implémentés en PHP par des frameworks, dont AMPHP. Pas besoin de réimplémenter un serveur HTTP pour s'en servir, le code asynchrone peut être utilisé dans un contexte PHP synchrone. Ainsi, le site et l'API GraphQL de Télé-Loisirs ont été développés en utilisant la programmation asynchrone au sein d'une application Symfony. Les pages sont structurées en composants résolus simultanément. En plus de permettre l'amélioration des temps de réponse, l'asynchrone permet une organisation du code par domaine métier (DDD), facilitant la maintenance et la collaboration entre les développeurs frontend et backend.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://jerome.tamarelle.net/slides/2022-04-08-PHP-Async-SymfonyLiveParis2022.pdf)  
 ~~Video~~  
 [Examples](https://github.com/GromNaN/async-page-builder-demo)
 
