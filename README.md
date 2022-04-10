@@ -113,7 +113,7 @@ Manipulation de chaînes de caractères avec Unicode, concurrence, international
 Bien que certains composants soient connus et reconnus, il en existe au moins tout autant qui pourraient vous sauver de longues heures de développement si vous connaissiez leur existence. C'est ce que nous allons explorer ensemble.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/alexdaubois/symfonylive-paris-2022-des-composants-symfony-meconnus-qui-valent-le-detour)  
 ~~Video~~
 
 By [Alexandre Daubois](https://connect.symfony.com/profile/alexandre-daubois)  
