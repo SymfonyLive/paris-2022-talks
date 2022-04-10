@@ -261,7 +261,8 @@ By [Kévin Dunglas](https://connect.symfony.com/profile/)
 Keycloak est un IAM (Identity and Access Management) populaire qui offre de nombreuses possibilités en tant que SSO (connexion via différents providers comme Facebook, 2FA, stratégie de renouvellement de mot de passe etc). Nous verrons dans ce talk quelques unes de ces fonctionnalités et comment il s'intègre avec une application Symfony.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vRDMb0L717lkeEW8Q44EkX5UnvRtEu9xHgLSOV1FBoN6iMjfV4KrPaYlBDMhjgptIxJuxPG3aUHGY5d/pub?start=true&loop=false&delayms=3000)  
+[Demo repository](https://github.com/l-vo/sf_keycloak_example/tree/sflive)   
 ~~Video~~
 
 By [Laurent Voullemier](https://connect.symfony.com/profile/lvo)  
