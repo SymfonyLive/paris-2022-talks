@@ -214,8 +214,8 @@ Après une revue de ce qu'il est possible de faire nativement avec Symfony, nous
 Enfin, nous verrons un cas d'usage qui dépasse le cadre que l'on donne habituellement à la définition des rôles pour déterminer dynamiquement les personnes habilitées à recevoir certaines notifications dans un système d'alertes internes.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~
+[Slides](https://slides.com/k-mos/symfonylive-paris-2022/)  
+~~Video~~  
 
 By [Marion Agé](https://connect.symfony.com/profile/marionage)  
 ![github](icon/github.png) [@K-mos](https://github.com/K-mos)  
