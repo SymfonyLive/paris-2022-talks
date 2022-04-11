@@ -215,7 +215,7 @@ Enfin, nous verrons un cas d'usage qui dépasse le cadre que l'on donne habituel
 </dl>
 
 [Slides](https://slides.com/k-mos/symfonylive-paris-2022/)  
-~~Video~~  
+~~Video~~
 
 By [Marion Agé](https://connect.symfony.com/profile/marionage)  
 ![github](icon/github.png) [@K-mos](https://github.com/K-mos)  
