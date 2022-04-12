@@ -242,7 +242,7 @@ ActivityPub est quant à lui un protocole qui permet de créer des réseaux soci
 Encore mieux, pas besoin de smart contracts ni même de blockchain pour créer des applications web décentralisées utilisant ces technologies, un bon vieux script PHP et un Raspberry Pi suffisent. Ceci dit, utiliser Symfony et API Platform peut grandement nous faciliter la tâche, c’est ce que nous découvrirons ensemble !</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dunglas/building-decentralized-web-apps-with-solid-and-symfony)  
 ~~Video~~  
 [Solid Client PHP](https://github.com/dunglas/solid-client-php)
 
