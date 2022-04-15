@@ -6,7 +6,7 @@
 ## Keynote
 
 ~~Slides~~  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/637)
 
 By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
 ![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
@@ -23,7 +23,7 @@ Comment peut-on valider XXX ? À travers cette présentation, nous allons voir c
 </dl>
 
 [Slides](https://speakerdeck.com/marionleherisson/valider-dynamiquement-de-la-donnee-avec-symfony)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/627)  
 [Example](https://github.com/MarionLeHerisson/validation)
 
 By [Marion Hurteau](https://connect.symfony.com/profile/marionleherisson)  
@@ -52,7 +52,7 @@ La réponse est oui, et durant ce talk nous allons vous montrer comment.</dd>
 </dl>
 
 [Slides](http://slides.com/mathiasarlaud/sflive-apip-ddd)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/625)  
 [Example](https://github.com/mtarld/apip-ddd)
 
 By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)  
@@ -77,7 +77,7 @@ Cependant, manipuler un array PHP n'est pas pratique : les analyseurs statiques 
 </dl>
 
 [Slides](https://speakerdeck.com/lyrixx/doctrine-objet-type-et-colonne-json)  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/628)
 
 By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)  
 ![github](icon/github.png) [@lyrixx](https://github.com/lyrixx)  
@@ -93,7 +93,7 @@ By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)
 </dl>
 
 [Slides](https://slides.com/kpn13/connaissez-vous-vraiment-jwt-sf-live-2022)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/626)  
 [Examples](https://github.com/kpn13/jwt-attack-examples)
 
 By [Karim Pinchon](https://connect.symfony.com/profile/kpinchon)  
@@ -114,7 +114,7 @@ Bien que certains composants soient connus et reconnus, il en existe au moins to
 </dl>
 
 [Slides](https://speakerdeck.com/alexdaubois/symfonylive-paris-2022-des-composants-symfony-meconnus-qui-valent-le-detour)  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/634)
 
 By [Alexandre Daubois](https://connect.symfony.com/profile/alexandre-daubois)  
 ![github](icon/github.png) [@alexandre-daubois](https://github.com/alexandre-daubois)  
@@ -134,7 +134,7 @@ Au-travers de cette présentation, je tenterai de mettre cette notion en perspec
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/630)
 
 By [Jérôme Vieilledent](https://connect.symfony.com/profile/lolautruche)  
 ![github](icon/github.png) [@lolautruche](https://github.com/lolautruche)  
@@ -154,7 +154,7 @@ Vous découvrirez, je l'espère des outils dont vous ignoriez l'existence et qui
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/638)
 
 By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
 ![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
@@ -175,7 +175,7 @@ Sacré programme, j'espère que vous êtes bien accrochés ! Et n'oubliez pas de
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/633)
 
 By [Etienne Lebarillier](https://connect.symfony.com/profile/etienneleba)  
 ![github](icon/github.png) [@etienneleba](https://github.com/etienneleba)  
@@ -191,7 +191,7 @@ By [Etienne Lebarillier](https://connect.symfony.com/profile/etienneleba)
 </dl>
 
 [Slides](https://jerome.tamarelle.net/slides/2022-04-08-PHP-Async-SymfonyLiveParis2022.pdf)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/629)  
 [Examples](https://github.com/GromNaN/async-page-builder-demo)
 
 By [Jérôme Tamarelle](https://connect.symfony.com/profile/gromnan)  
@@ -215,7 +215,7 @@ Enfin, nous verrons un cas d'usage qui dépasse le cadre que l'on donne habituel
 </dl>
 
 [Slides](https://slides.com/k-mos/symfonylive-paris-2022/)  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/636)
 
 By [Marion Agé](https://connect.symfony.com/profile/marionage)  
 ![github](icon/github.png) [@K-mos](https://github.com/K-mos)  
@@ -243,7 +243,7 @@ Encore mieux, pas besoin de smart contracts ni même de blockchain pour créer d
 </dl>
 
 [Slides](https://speakerdeck.com/dunglas/building-decentralized-web-apps-with-solid-and-symfony)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/632)  
 [Solid Client PHP](https://github.com/dunglas/solid-client-php)
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/)  
@@ -262,7 +262,7 @@ Keycloak est un IAM (Identity and Access Management) populaire qui offre de nomb
 </dl>
 
 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRDMb0L717lkeEW8Q44EkX5UnvRtEu9xHgLSOV1FBoN6iMjfV4KrPaYlBDMhjgptIxJuxPG3aUHGY5d/pub)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/631)  
 [Example](https://github.com/l-vo/sf_keycloak_example/tree/sflive)
 
 By [Laurent Voullemier](https://connect.symfony.com/profile/lvo)  
@@ -285,7 +285,7 @@ Dans ce talk, nous discuterons d'en quoi Symfony a été décisif dans ce projet
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/635)
 
 By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)  
 ![github](icon/github.png) [@tgalopin](https://github.com/tgalopin)  
