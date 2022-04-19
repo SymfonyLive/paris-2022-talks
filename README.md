@@ -71,9 +71,9 @@ And [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)
   <dt>Description</dt>
   <dd>Les bases de données savent gérer des colonnes JSON depuis des années déjà, et ces colonnes permettent d'accélérer le développement en simplifiant le code, les migrations, et la maintenance.
 
-Cependant, manipuler un array PHP n'est pas pratique : les analyseurs statiques de code sont perdus (a moins de spécifier énormément de chose via de la PHPDoc), PHP ne peut pas controller le type au runtime, mais surtout la lisibilité du code est réduite. En effet, à moins de lire tout le code, il est difficile de savoir quelles sont les clés obligatoires, lesquelles sont optionnelles, et enfin comment est typée la donnée.
+Cependant, manipuler un array PHP n'est pas pratique : les analyseurs statiques de code sont perdus (a moins de spécifier énormément de chose via de la PHPDoc), PHP ne peut pas controller le type au runtime, mais surtout la lisibilité du code est réduite. En effet, à moins de lire tout le code, il est difficile de savoir quelles sont les clés obligatoires, lesquelles sont optionnelles, et enfin comment est typée la donnée.
 
-À travers cette présentation, nous allons voir comment étendre Doctrine pour avoir le meilleur des deux mondes : des colonnes en JSON, et des objets PHP fortement typés.</dd>
+À travers cette présentation, nous allons voir comment étendre Doctrine pour avoir le meilleur des deux mondes : des colonnes en JSON, et des objets PHP fortement typés.</dd>
 </dl>
 
 [Slides](https://speakerdeck.com/lyrixx/doctrine-objet-type-et-colonne-json)  
@@ -89,7 +89,7 @@ By [Grégoire Pineau](https://connect.symfony.com/profile/lyrixx)
 
 <dl>
   <dt>Description</dt>
-  <dd>Depuis quelques années déjà, beaucoup d'entre nous avons vu passer ou utiliser des jetons un peu spéciaux : les JSON Web Tokens ou JWT. Ce standard de jeton est très pratique pour faire transiter de l'information de manière fiable. Ces jetons sont souvent utilisés pour assurer l'authentication auprès de web services, de micro-services ou de SSO dans le cadre d'OpenID Connect. De plus, on voit beaucoup de JWS (des jetons signés), mais ce n'est pas la seule implémentation qui existe. En réalité, la spécification JWT est nettement plus vaste que ce que l'on peut penser. Je vous propose de découvrir des aspects de JWT moins connus que l'utilisation classique.</dd>
+  <dd>Depuis quelques années déjà, beaucoup d'entre nous avons vu passer ou utiliser des jetons un peu spéciaux : les JSON Web Tokens ou JWT. Ce standard de jeton est très pratique pour faire transiter de l'information de manière fiable. Ces jetons sont souvent utilisés pour assurer l'authentication auprès de web services, de micro-services ou de SSO dans le cadre d'OpenID Connect. De plus, on voit beaucoup de JWS (des jetons signés), mais ce n'est pas la seule implémentation qui existe. En réalité, la spécification JWT est nettement plus vaste que ce que l'on peut penser. Je vous propose de découvrir des aspects de JWT moins connus que l'utilisation classique.</dd>
 </dl>
 
 [Slides](https://slides.com/kpn13/connaissez-vous-vraiment-jwt-sf-live-2022)  
@@ -168,7 +168,7 @@ By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)
   <dt>Description</dt>
   <dd>À l'architecture hexagonale ! Cela fait des décennies que ça existe et des années que c'est sur le devant de la scène, pourtant, nous avons encore bien du mal à la mettre en place dans nos projets.
 
-Dans ce talk, nous allons éviter la théorie, et aller directement à la pratique avec notre framework PHP préféré : Symfony.
+Dans ce talk, nous allons éviter la théorie, et aller directement à la pratique avec notre framework PHP préféré : Symfony.
 Nous verrons comment intégrer une architecture hexagonale dans Symfony, les différentes manières d'accéder à notre hexagone (UseCase, CQRS), de persister nos entités (ORM, Memento) et enfin quelle stratégie de test adoptée avec une architecture hexagonal (Diamond testing). Tout ça avec plein d'exemples concrets !
 
 Sacré programme, j'espère que vous êtes bien accrochés ! Et n'oubliez pas de réviser la théorie avant de venir, car dans ce talk, on passe à la pratique !</dd>
@@ -233,7 +233,7 @@ Et pour cause ! Il existe une manière plus ouverte, plus interopérable, plus s
 
 Les standards du web, et en particulier ceux de dernière génération (RDF, JSON-LD, N3, OpenID Connect) proposent un cadre pour réaliser de telles apps.
 
-C’est sur cette base technique que sont établis deux nouveaux protocoles qui pourraient révolutionner le web : Solid et ActivityPub.
+C’est sur cette base technique que sont établis deux nouveaux protocoles qui pourraient révolutionner le web : Solid et ActivityPub.
 
 Le projet Solid, pour Social Linked Data, développé par Sir Tim Berners-Lee - le créateur du Web himself - redonne aux utilisateurs le contrôle de leurs données. Il leur permet de les stocker où ils le souhaitent, et de choisir finement quelle application peut accéder à quoi.
 
